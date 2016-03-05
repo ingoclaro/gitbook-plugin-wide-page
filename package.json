@@ -5,6 +5,11 @@
     "gitbook": ">=2.4.0"
   },
   "description": "Fluid page width instead of fixed",
+  "homepage": "https://github.com/ingoclaro/gitbook-plugin-wide-page",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ingoclaro/gitbook-plugin-wide-page.git"
+  },
   "main": "index.js",
   "author": {
     "name": "Ingo Claro",
