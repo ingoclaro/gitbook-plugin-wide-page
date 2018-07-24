@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-wide-page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "gitbook": ">=2.4.0"
   },
@@ -13,7 +13,7 @@
   "main": "index.js",
   "author": {
     "name": "Ingo Claro",
-    "email": "ingo@gmail.com"
+    "email": "miclaro@gmail.com"
   },
   "license": "MIT"
 }
